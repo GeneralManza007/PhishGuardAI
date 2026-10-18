@@ -1,0 +1,10 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+phishguard-backend/venv/
+
+# Mac system files
+.DS_Store
+
